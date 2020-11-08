@@ -1,15 +1,15 @@
 ### Hey! I am Javeed. 👋
 
-## I'm an Undergraduate Computer Science Student at IIITG !!
+## I'm an Undergraduate Computer Science Student at IIITG and an Aspiring Web Developer
 
 -  I’m currently Working on Node.js
 - 🥅 2020 Goals: To Make and Host Websites using React as my Primary Technology
 - ⚡ Fun fact: I love Watching Football, Huge fan of Liverpool. #YNWA
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://twitter.com/JaveedYara1" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/javeedyara/" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/javeedyara/" />][instagram]
+[<img align="left" alt="Twitter" width="22px" src="https://twitter.com/JaveedYara1" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://www.linkedin.com/in/javeedyara/" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://www.instagram.com/javeedyara/" />][instagram]
 
 <br />
 
