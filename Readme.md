@@ -1,9 +1,8 @@
 ### Hey! I am Javeed. 👋
 
-## I'm a Computer Science Undergraduate at IIITG and an Aspiring Web Developer.
-
+## I'm a Final Year Computer Science Undergraduate at IIITG
 -  I’m currently Working on Data Structures and ALgorithms
-- 🥅 2022 Goals: To Make and Host Websites using React as my Primary Technology
+- 🥅 2023 Goals: To Make and Host Websites using React as my Primary Technology
 - ⚡ Fun fact: I love Watching Football, Huge fan of Liverpool. #YNWA
 
 
