@@ -2,7 +2,7 @@
 
 ## I'm a Final Year Computer Science Undergraduate at IIITG
 -  I’m currently Working on Data Structures and ALgorithms
-- 🥅 2023 Goals: To Make and Host Websites using React as my Primary Technology
+- 🥅 2023 Goals: Tolearn DevOps and contribute as much as i can to opensource
 - ⚡ Fun fact: I love Watching Football, Huge fan of Liverpool. #YNWA
 
 
